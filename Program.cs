@@ -6,7 +6,7 @@ namespace Astric_Pyramid
     {
         static void Main(string[] args)
         {
-            int le = 7;
+            int le = 1;
             Console.WriteLine("Enter A Number : ");
             int no = int.Parse(Console.ReadLine());
             int sp = no - 1;

@@ -5,3 +5,10 @@ C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\obj\Debug\Astric Pyramid.
 C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\obj\Debug\Astric Pyramid.csproj.CoreCompileInputs.cache
 C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\obj\Debug\Astric Pyramid.exe
 C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\obj\Debug\Astric Pyramid.pdb
+C:\Users\YN\OneDrive\Documents\GitHub\Astric_pyramid\bin\Debug\Astric Pyramid.exe.config
+C:\Users\YN\OneDrive\Documents\GitHub\Astric_pyramid\bin\Debug\Astric Pyramid.exe
+C:\Users\YN\OneDrive\Documents\GitHub\Astric_pyramid\bin\Debug\Astric Pyramid.pdb
+C:\Users\YN\OneDrive\Documents\GitHub\Astric_pyramid\obj\Debug\Astric Pyramid.csproj.AssemblyReference.cache
+C:\Users\YN\OneDrive\Documents\GitHub\Astric_pyramid\obj\Debug\Astric Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\YN\OneDrive\Documents\GitHub\Astric_pyramid\obj\Debug\Astric Pyramid.exe
+C:\Users\YN\OneDrive\Documents\GitHub\Astric_pyramid\obj\Debug\Astric Pyramid.pdb
