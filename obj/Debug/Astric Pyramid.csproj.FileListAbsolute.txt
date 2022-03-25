@@ -1,0 +1,7 @@
+C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\bin\Debug\Astric Pyramid.exe.config
+C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\bin\Debug\Astric Pyramid.exe
+C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\bin\Debug\Astric Pyramid.pdb
+C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\obj\Debug\Astric Pyramid.csproj.AssemblyReference.cache
+C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\obj\Debug\Astric Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\obj\Debug\Astric Pyramid.exe
+C:\Users\YN\source\repos\Astric Pyramid\Astric Pyramid\obj\Debug\Astric Pyramid.pdb
