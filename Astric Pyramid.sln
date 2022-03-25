@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astric Pyramid", "Astric Pyramid\Astric Pyramid.csproj", "{9276CA9D-2159-434D-BAD1-C3EE09761306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9276CA9D-2159-434D-BAD1-C3EE09761306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9276CA9D-2159-434D-BAD1-C3EE09761306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9276CA9D-2159-434D-BAD1-C3EE09761306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9276CA9D-2159-434D-BAD1-C3EE09761306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD9EC0C-6EF7-4D00-89AB-1A846CBC00C3}
+	EndGlobalSection
+EndGlobal
